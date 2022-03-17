@@ -7,5 +7,3 @@ Step to install:
 2. npm install 
 3. npm start or node index.js 
 4. done
-
-contactus: damartripamungkas.github.io/portofolio
